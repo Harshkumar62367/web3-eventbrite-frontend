@@ -2,17 +2,13 @@
 
 ### Fork and clone the repo from Github to work with it locally
 
-1. Click the "Fork" button
+1. Open your terminal.
 
-2. In your account's forked github repo, click the "Code" button and copy the repo link.
+2. CD into the repo 
 
-3. Open your terminal.
+3. Install dependencies `npm i`
 
-4. CD into the repo 
-
-5. Install dependencies `npm i`
-
-6. Run the development server
+4. Run the development server
 
 ```bash
 npm run dev
